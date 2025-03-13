@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "spice": {
+      "command": "node",
+      "env": {
+        "FLIPSIDE_API_KEY": "your_flipside_api_key_here"
+      },
+      "args": [
+        "/absolute/path/to/build/index.js"
+      ]
+    }
+  }
+}
