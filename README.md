@@ -8,6 +8,8 @@ This is a TypeScript-based MCP server that implements a Solana data query system
 - Tools for querying Solana blockchain data via Flipside API
 - Prompts for SQL query examples
 
+DEMO: https://x.com/toannhu21096/status/1900031746848284916
+
 ## Features
 
 ### Resources
